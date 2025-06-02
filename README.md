@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currículo</title>
 </head>
-
 <body>
     <h1>Yasmin Raianne Vargas</h1>
     <h3 style="display: ;">15 anos</h3>
