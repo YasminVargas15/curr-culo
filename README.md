@@ -1,4 +1,5 @@
 # curriculo
+```html
 <!DOCTYPE html>
 <html lang="pt_BR">
 
@@ -39,3 +40,4 @@
 </body>
 
 </html>
+```
